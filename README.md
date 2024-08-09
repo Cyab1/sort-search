@@ -1,5 +1,5 @@
 # Sort And search
-A brief description of your project, explaining its purpose and functionality.
+A brief description of sort&search, explaining its purpose and functionality.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -74,4 +74,4 @@ Binary Search is efficient for large datasets where the array is sorted. It redu
 
 
 ## Credits
-This project was developed by Siyabonga.
+This project was developed by Siyabonga
